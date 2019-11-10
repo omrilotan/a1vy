@@ -25,7 +25,8 @@
     "chmod": "find ./programs -type f -exec chmod +rx {} \\;",
     "prepare": "npm run chmod",
     "prepublishOnly": "npm run chmod",
-    "lint": "eslint . --ext .js"
+    "lint": "eslint . --ext .js",
+    "jsonlint": "find . | grep \"\\.json\" | grep -v node_modules | xargs -I {} jsonlint -q {}"
   },
   "dependencies": {
     "@does/exist": "^1.0.0",
@@ -48,6 +49,7 @@
   "devDependencies": {
     "@omrilotan/eslint-config": "^1.1.0",
     "eslint": "^6.6.0",
-    "eslint-plugin-log": "^1.2.3"
+    "eslint-plugin-log": "^1.2.3",
+    "jsonlint": "^1.6.3"
   }
 }
