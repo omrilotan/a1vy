@@ -35,7 +35,7 @@
     "ansi-escapes": "^4.2.1",
     "async-execute": "^1.1.0",
     "boxt": "^0.3.2",
-    "colors": "^1.3.3",
+    "colors": "^1.4.0",
     "cookie-parser": "^1.4.4",
     "cors": "^2.8.5",
     "doamrn": "^1.0.3",
