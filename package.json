@@ -41,7 +41,7 @@
     "doamrn": "^1.0.3",
     "express": "^4.17.1",
     "inquirer": "^7.0.0",
-    "mime-types": "^2.1.24",
+    "mime-types": "^2.1.25",
     "npm-check": "^5.9.0",
     "stdline": "^0.1.0",
     "upgradable": "0.0.10"
