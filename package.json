@@ -48,7 +48,7 @@
   },
   "devDependencies": {
     "@omrilotan/eslint-config": "^1.1.0",
-    "eslint": "^6.6.0",
+    "eslint": "^7.0.0",
     "eslint-plugin-log": "^1.2.3",
     "jsonlint": "^1.6.3"
   }
