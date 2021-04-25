@@ -32,7 +32,7 @@
     "@does/exist": "^1.0.0",
     "@does/sortby": "^1.1.0",
     "@lets/wait": "^2.0.2",
-    "ansi-escapes": "^4.2.1",
+    "ansi-escapes": "^5.0.0",
     "async-execute": "^1.1.0",
     "boxt": "^0.4.0",
     "colors": "^1.4.0",
